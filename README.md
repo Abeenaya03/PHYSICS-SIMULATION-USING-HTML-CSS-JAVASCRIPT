@@ -1,2 +1,1 @@
-# PHYSICS-SIMULATION-USING-HTML-CSS-JAVASCRIPT
-BLACKBODY RADIATION simulation using html,css,javascript
+
